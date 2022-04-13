@@ -1,2 +1,2 @@
 # ComputationalNeuroscienceProjects
-Computational Neuroscience Projects 
+Computational Neuroscience Projects and course contents
