@@ -1,0 +1,7 @@
+inpput_neuron_number,train_1,train_2,train_3,train_4,train_5,train_6,train_7,train_8,train_9,train_10
+1,1,2,3,2,1,1,0,0,0,2
+2,1,1,1,0,1,0,1,0,0,2
+3,0,1,0,0,0,0,0,0,0,2
+4,0,0,0,0,0,0,3,1,0,1
+5,0,0,0,0,1,2,0,1,1,2
+output_neuron_number,1,1,1,1,1,0,0,0,0,1
